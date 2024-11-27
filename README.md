@@ -1,6 +1,6 @@
 # Range Image registration for 3d model Acquisition using Active Range Sensors
 This project is part of My ComputerVision Course. </br>
-In this project we tried to simulate Active 3d range sensors like LiDAR, ToF, ect in Blendor. </br>
+In this project we tried to simulate Active 3d range sensors like LiDAR, ToF, etc in Blendor. </br>
 We used ".blend" files available online to conduct these experiments. </br>
 Later we tried to register them (and Also the data availble online) in a 3d mesh(environment) using multiple variants of ICP algorithm. </br>
 Methodology: </br>
